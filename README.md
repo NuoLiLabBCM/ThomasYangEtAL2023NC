@@ -1,6 +1,6 @@
 # ThomasYangEtAL2023NC
 
-MATLAB code related to Thomas and Yang et al, 2023. 
+MATLAB code related to Thomas and Yang et al, 2023, Nat Communications (in press). 
 
 This repository contains the code for figures in Thomas and Yang et al., 2023, Nat. Communications. 'Superior colliculus cell types bidirectionally modulate choice activity in frontal cortex'.
 See detailed comments within.
